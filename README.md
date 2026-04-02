@@ -1,6 +1,6 @@
 # jpa01-Wendy192837
 
-Deployed at: http://jpa01-wendy192837.dokku-00.cs.ucsb.edu/
+Deployed at: https://jpa01-wendy192837.dokku-00.cs.ucsb.edu/
 
 # About this repo
 
